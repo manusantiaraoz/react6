@@ -1,0 +1,12 @@
+body{
+    background-color: #00aebb ;
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
+.mainpage{
+    flex-grow: 1;
+}
